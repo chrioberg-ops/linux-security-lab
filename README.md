@@ -9,7 +9,37 @@ The objective was to deploy, configure, and secure an Ubuntu Server while gainin
 The project was completed as part of a Network Security course and focuses on real-world tasks commonly performed by Linux System Administrators and Security Engineers.
 
 ---
+## Table of Contents
 
+- Project Overview
+- Technologies Used
+- Skills Summary
+- User Administration
+- SSH Hardening
+- Firewall Configuration
+- Multi-Factor Authentication
+- Web Security
+- Network Analysis
+- Learning Outcomes
+- Conclusion
+
+---
+
+## Skills Summary
+
+This project demonstrates practical experience with:
+
+- Linux Administration
+- User Management
+- SSH Hardening
+- Firewall Configuration
+- Multi-Factor Authentication
+- HTTPS / TLS
+- Packet Analysis
+- Network Security
+- System Administration
+
+---
 ## Technologies Used
 
 * Ubuntu Server
