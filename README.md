@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+
+
 This project demonstrates Linux server administration and security hardening techniques implemented in a practical lab environment.
 
 The objective was to configure and secure an Ubuntu Server while implementing industry-standard security controls and performing network traffic analysis.
@@ -65,3 +67,40 @@ The complete project report can be found in the `/docs` directory.
 This project provided practical experience with Linux administration, system hardening, secure remote access, authentication, firewall management, web security and network troubleshooting.
 
 These are foundational skills commonly used in System Administration, IT Operations and Cybersecurity environments.
+
+
+---
+
+# Project Screenshots
+
+## User Management
+
+![User Management](screenshots/user-management.png)
+
+## Sudo Permissions
+
+![Sudo Permissions](screenshots/sudo-permissions.png)
+
+## SSH Service
+
+![SSH Service](screenshots/ssh-service.png)
+
+## SSH Key Authentication
+
+![SSH Key Authentication](screenshots/ssh-key-authentication.png)
+
+## UFW Firewall
+
+![UFW Firewall](screenshots/ufw-firewall.png)
+
+## Multi-Factor Authentication (MFA)
+
+![MFA](screenshots/mfa-authentication-login.png)
+
+## HTTP Credentials Visible in Clear Text
+
+![HTTP Clear Text](screenshots/http-cleartext-traffic.png)
+
+## HTTPS Encryption Protection
+
+![HTTPS Encryption](screenshots/https-encryption-comparison.png)
